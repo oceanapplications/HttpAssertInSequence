@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 `composer require oceanapplications/httpassertinsequence`
 
@@ -11,7 +11,7 @@ Use alias in all your files
 `use Http;`
 
 
-#Usage
+# Usage
 
 Works just like assertSent but allows you to specify which request to check
 
