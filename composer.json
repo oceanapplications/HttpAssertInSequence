@@ -1,0 +1,19 @@
+{
+  "name": "oceanapplications/httpassertinsequence",
+  "description": "Assert that request was sent at specific index of sequence",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sean Baker",
+      "email": "oceanapplications@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "OceanApplications\\HttpAssertInSequence\\": "src/"
+    }
+  },
+  "require": {}
+}
